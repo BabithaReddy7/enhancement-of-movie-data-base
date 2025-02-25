@@ -2,8 +2,8 @@
     "build": {
         "env": {
             "NODE_VERSION": "22",
-            
             "NPM_CONFIG_USERCONFIG": "~/.npmrc"
-        }
+        },
+        "installCommand": "npm install"
     }
 }
